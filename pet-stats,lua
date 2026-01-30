@@ -20,7 +20,7 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 14,
-            ["CircusTickets"] = 7,
+            ["Coins"] = 7,
         },
         ["Rarity"] = "Epic",
         ["Images"] = {
@@ -72,8 +72,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 190,
-            ["GameTickets"] = 20,
+            ["Gems"] = 180,
+            ["Coins"] = 8200,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -169,8 +169,8 @@
     ["Bot In The Box"] = {
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 100,
-            ["GameTickets"] = 2,
+            ["Gems"] = 175,
+            ["Coins"] = 6250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -260,8 +260,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9450,
-            ["CircusTickets"] = 160,
-            ["GameTickets"] = 12,
+            ["Gems"] = 160,
+            ["Coins"] = 7250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -747,6 +747,21 @@
         ["Chance"] = 7,
         ["LayoutOrder"] = 50,
     },
+    ["Dark Plasma Wolflord"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 14500,
+            ["Gems"] = 250,
+            ["Coins"] = 10000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://104845203944378",
+            ["Shiny"] = "rbxassetid://76969422105435",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1167,
+    },
     ["Giant NULLvoid"] = {
         ["Stats"] = {
             ["Bubbles"] = 7000,
@@ -788,7 +803,7 @@
         ["Stats"] = {
             ["Bubbles"] = 1950,
             ["Gems"] = 35,
-            ["CircusTickets"] = 12,
+            ["Coins"] = 1000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -1167,8 +1182,8 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 8500,
-            ["CircusTickets"] = 160,
-            ["GameTickets"] = 13,
+            ["Gems"] = 130,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -1394,6 +1409,26 @@
         ["Chance"] = 0.002,
         ["LayoutOrder"] = 53,
     },
+    ["Azure Angel"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 2250,
+            ["Gems"] = 35,
+            ["Coins"] = 1000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://101650705016588",
+            ["Mythic"] = "rbxassetid://71536267921554",
+            ["MythicShiny"] = "rbxassetid://97242377054015",
+            ["Shiny"] = "rbxassetid://86278413443034",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1170,
+        ["Tag"] = "Duality Event",
+    },
     ["Tidal God"] = {
         ["Egg"] = "Atlantis Egg",
         ["Stats"] = {
@@ -1561,7 +1596,7 @@
             ["Shiny"] = "rbxassetid://109430107092502",
         },
         ["Limited"] = true,
-        ["Chance"] = 0.01,
+        ["Chance"] = 100,
         ["LayoutOrder"] = 328,
     },
     ["Big Bee"] = {
@@ -1687,7 +1722,7 @@
         ["Stats"] = {
             ["Bubbles"] = 1500,
             ["Gems"] = 28,
-            ["CircusTickets"] = 10,
+            ["Coins"] = 600,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -2198,8 +2233,8 @@
         ["ChannelIgnore"] = true,
         ["Stats"] = {
             ["Bubbles"] = 8500,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 6,
+            ["Gems"] = 145,
+            ["Coins"] = 6000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -2216,8 +2251,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 6900,
-            ["Gems"] = 120,
-            ["CircusTickets"] = 45,
+            ["Gems"] = 130,
+            ["Coins"] = 5300,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -2799,6 +2834,26 @@
         ["Chance"] = 64,
         ["LayoutOrder"] = 620,
     },
+    ["Supreme Seraphim"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 11500,
+            ["Gems"] = 200,
+            ["Coins"] = 8500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://124247486143095",
+            ["Mythic"] = "rbxassetid://105093366595154",
+            ["MythicShiny"] = "rbxassetid://81395105774431",
+            ["Shiny"] = "rbxassetid://124992669020990",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 4e-09,
+        ["LayoutOrder"] = 1174,
+        ["Tag"] = "Duality Event",
+    },
     ["Giftbox Doggy"] = {
         ["Egg"] = "Giftbox Egg",
         ["Stats"] = {
@@ -2951,8 +3006,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 5200,
-            ["Gems"] = 95,
-            ["CircusTickets"] = 32,
+            ["Gems"] = 130,
+            ["Coins"] = 3000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -3266,8 +3321,8 @@
     ["Clown Nert Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 9800,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 15,
+            ["Gems"] = 145,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -3353,6 +3408,22 @@
         ["Chance"] = 0.001,
         ["LayoutOrder"] = 116,
     },
+    ["Azure Judgement"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://101991069703508",
+            ["Shiny"] = "rbxassetid://121474315308091",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 34,
+        ["LayoutOrder"] = 1169,
+        ["Tag"] = "Duality Event",
+    },
     ["Serene Axolotl"] = {
         ["Egg"] = "Dreamer Egg",
         ["Stats"] = {
@@ -3405,6 +3476,22 @@
         ["Tier"] = 3,
         ["Chance"] = 0.000005,
         ["LayoutOrder"] = 175,
+    },
+    ["Fire Golem"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://92717333984469",
+            ["Shiny"] = "rbxassetid://91222486859677",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 34,
+        ["LayoutOrder"] = 1176,
+        ["Tag"] = "Duality Event",
     },
     ["Prophet"] = {
         ["Stats"] = {
@@ -3495,8 +3582,8 @@
     ["Elephant Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 6750,
-            ["CircusTickets"] = 100,
-            ["GameTickets"] = 8,
+            ["Gems"] = 110,
+            ["Coins"] = 3000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -4090,11 +4177,31 @@
         ["LayoutOrder"] = 1153,
         ["Tag"] = "Admin Abuse Egg",
     },
+    ["Reincarnation"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10500,
+            ["Gems"] = 175,
+            ["Coins"] = 7250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://127546074392106",
+            ["Mythic"] = "rbxassetid://78297482091334",
+            ["MythicShiny"] = "rbxassetid://119147916081168",
+            ["Shiny"] = "rbxassetid://133419439346247",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1.5e-08,
+        ["LayoutOrder"] = 1173,
+        ["Tag"] = "Duality Event",
+    },
     ["Mini-Go Round"] = {
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 20,
-            ["CircusTickets"] = 7,
+            ["Coins"] = 7,
         },
         ["Rarity"] = "Epic",
         ["Images"] = {
@@ -4199,8 +4306,8 @@
     ["Chroma Defender"] = {
         ["Stats"] = {
             ["Bubbles"] = 5500,
-            ["CircusTickets"] = 65,
-            ["GameTickets"] = 1.5,
+            ["Gems"] = 110,
+            ["Coins"] = 2000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -4790,8 +4897,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 190,
-            ["GameTickets"] = 20,
+            ["Gems"] = 180,
+            ["Coins"] = 8200,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -5031,7 +5138,7 @@
         ["Stats"] = {
             ["Bubbles"] = 2250,
             ["Gems"] = 35,
-            ["CircusTickets"] = 15,
+            ["Coins"] = 1000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -5146,7 +5253,7 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 8,
-            ["CircusTickets"] = 5,
+            ["Coins"] = 5,
         },
         ["Rarity"] = "Common",
         ["Images"] = {
@@ -5392,8 +5499,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9450,
-            ["CircusTickets"] = 160,
-            ["GameTickets"] = 12,
+            ["Gems"] = 160,
+            ["Coins"] = 7250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -5460,8 +5567,8 @@
     ["Robot Tophat"] = {
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 225,
-            ["GameTickets"] = 10,
+            ["Gems"] = 190,
+            ["Coins"] = 8000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -5829,8 +5936,8 @@
     ["Serendipity"] = {
         ["Stats"] = {
             ["Bubbles"] = 8900,
-            ["CircusTickets"] = 200,
-            ["GameTickets"] = 10,
+            ["Gems"] = 160,
+            ["Coins"] = 6500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -6022,8 +6129,8 @@
         ["Egg"] = "Cannon Egg",
         ["Stats"] = {
             ["Bubbles"] = 8700,
-            ["CircusTickets"] = 110,
-            ["GameTickets"] = 4,
+            ["Gems"] = 130,
+            ["Coins"] = 5500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -6162,8 +6269,8 @@
     ["Void Soul"] = {
         ["Stats"] = {
             ["Bubbles"] = 7400,
-            ["CircusTickets"] = 80,
-            ["GameTickets"] = 2,
+            ["Gems"] = 110,
+            ["Coins"] = 3000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -6227,6 +6334,26 @@
         ["Chance"] = 65,
         ["LayoutOrder"] = 975,
         ["Tag"] = "Winter 2025",
+    },
+    ["Hellish Beast"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 7500,
+            ["Gems"] = 120,
+            ["Coins"] = 4000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108012847762890",
+            ["Mythic"] = "rbxassetid://127122937868600",
+            ["MythicShiny"] = "rbxassetid://119385021955108",
+            ["Shiny"] = "rbxassetid://104441019256065",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.00001,
+        ["LayoutOrder"] = 1179,
+        ["Tag"] = "Duality Event",
     },
     ["Stone Gargoyle"] = {
         ["Egg"] = "Mining Egg",
@@ -6504,6 +6631,22 @@
         ["LayoutOrder"] = 783,
         ["Tag"] = "OG Event 2025",
     },
+    ["Synthesis"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12000,
+            ["Gems"] = 175,
+            ["Coins"] = 9000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://70591776161634",
+            ["Mythic"] = "rbxassetid://126094193462594",
+            ["MythicShiny"] = "rbxassetid://88625551860072",
+            ["Shiny"] = "rbxassetid://132566988637310",
+        },
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1190,
+    },
     ["Nightmare Jester"] = {
         ["Egg"] = "Jester Egg",
         ["Stats"] = {
@@ -6523,6 +6666,24 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 660,
         ["Tag"] = "Halloween 2025",
+    },
+    ["Divine Seraph"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://107854883889698",
+            ["Mythic"] = "rbxassetid://128223010633742",
+            ["MythicShiny"] = "rbxassetid://102023402088613",
+            ["Shiny"] = "rbxassetid://128067716208784",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1187,
+        ["Tag"] = "Exclusive Pet",
     },
     ["ACE"] = {
         ["Egg"] = "Shadow Egg",
@@ -6965,8 +7126,8 @@
     ["Leviathan Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 100,
-            ["GameTickets"] = 2,
+            ["Gems"] = 125,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -7247,8 +7408,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 10250,
-            ["CircusTickets"] = 200,
-            ["GameTickets"] = 25,
+            ["Gems"] = 185,
+            ["Coins"] = 8500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -7555,6 +7716,22 @@
         ["Chance"] = 0.000125,
         ["LayoutOrder"] = 186,
     },
+    ["Hellish One"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 5500,
+            ["Gems"] = 120,
+            ["Coins"] = 3000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://119131215859456",
+            ["Shiny"] = "rbxassetid://103022472198473",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1183,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Nephalem"] = {
         ["Stats"] = {
             ["Bubbles"] = 3350,
@@ -7642,8 +7819,8 @@
     ["Neon Prototype"] = {
         ["Stats"] = {
             ["Bubbles"] = 9250,
-            ["CircusTickets"] = 160,
-            ["GameTickets"] = 12,
+            ["Gems"] = 145,
+            ["Coins"] = 6000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -7981,8 +8158,8 @@
     ["Dark Dragon Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 6500,
-            ["CircusTickets"] = 40,
-            ["GameTickets"] = 3,
+            ["Gems"] = 135,
+            ["Coins"] = 4000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -8054,8 +8231,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9800,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 15,
+            ["Gems"] = 175,
+            ["Coins"] = 7700,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -8283,8 +8460,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 10200,
-            ["CircusTickets"] = 220,
-            ["GameTickets"] = 17.5,
+            ["Gems"] = 190,
+            ["Coins"] = 8500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -8630,7 +8807,7 @@
         ["Stats"] = {
             ["Bubbles"] = 7100,
             ["Gems"] = 120,
-            ["CircusTickets"] = 50,
+            ["Coins"] = 4500,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -8908,8 +9085,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 145,
-            ["GameTickets"] = 8,
+            ["Gems"] = 145,
+            ["Coins"] = 6700,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -9158,8 +9335,8 @@
     ["Chroma Star"] = {
         ["Stats"] = {
             ["Bubbles"] = 7600,
-            ["CircusTickets"] = 150,
-            ["GameTickets"] = 5,
+            ["Gems"] = 130,
+            ["Coins"] = 4500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -9320,6 +9497,22 @@
         ["Tier"] = 3,
         ["Chance"] = 0.000001,
         ["LayoutOrder"] = 550,
+    },
+    ["Pure Guard"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 4250,
+            ["Gems"] = 75,
+            ["Coins"] = 2000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://122063689007307",
+            ["Shiny"] = "rbxassetid://79489916307333",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1188,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Abyssal Dragon"] = {
         ["Stats"] = {
@@ -9702,8 +9895,8 @@
     ["Dark Jester"] = {
         ["Stats"] = {
             ["Bubbles"] = 5500,
-            ["CircusTickets"] = 65,
-            ["GameTickets"] = 1.5,
+            ["Gems"] = 100,
+            ["Coins"] = 3500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -10873,7 +11066,7 @@
         ["Stats"] = {
             ["Bubbles"] = 4850,
             ["Gems"] = 95,
-            ["CircusTickets"] = 28,
+            ["Coins"] = 1000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -11178,8 +11371,8 @@
     ["Shadow Crystal Shard"] = {
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 100,
-            ["GameTickets"] = 2,
+            ["Gems"] = 145,
+            ["Coins"] = 6000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -11195,7 +11388,7 @@
         ["Egg"] = "Cannon Egg",
         ["Stats"] = {
             ["Bubbles"] = 14,
-            ["CircusTickets"] = 4,
+            ["Coins"] = 4,
         },
         ["Rarity"] = "Epic",
         ["Images"] = {
@@ -11496,6 +11689,93 @@
         ["Chance"] = 0.0001,
         ["LayoutOrder"] = 573,
     },
+    ["Giant que fofo"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 7000,
+            ["Gems"] = 135,
+            ["Coins"] = 4500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://111892785241817",
+            ["Shiny"] = "rbxassetid://130929711911688",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 0.0025,
+        ["LayoutOrder"] = 1191,
+        ["Tag"] = "Admin Mystery Box",
+    },
+    ["Bubblegum Pegasus"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12000,
+            ["Gems"] = 175,
+            ["Coins"] = 9000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://126180257622039",
+            ["Mythic"] = "rbxassetid://81766076398263",
+            ["MythicShiny"] = "rbxassetid://85674106298962",
+            ["Shiny"] = "rbxassetid://120557416864064",
+        },
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1189,
+    },
+    ["Santa's Hat"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 7750,
+            ["Gems"] = 130,
+            ["Coins"] = 4400,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108721114414317",
+            ["Mythic"] = "rbxassetid://133556432671932",
+            ["MythicShiny"] = "rbxassetid://138538571125943",
+            ["Shiny"] = "rbxassetid://108439524520565",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 2.5e-07,
+        ["Egg"] = "Yuletide Egg",
+        ["LayoutOrder"] = 892,
+        ["Tag"] = "Christmas 2025",
+    },
+    ["Santa Capybara Plushie"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 4500,
+            ["Gems"] = 100,
+            ["Coins"] = 200,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://137762767032085",
+            ["Mythic"] = "rbxassetid://102332049509516",
+            ["MythicShiny"] = "rbxassetid://104141194152857",
+            ["Shiny"] = "rbxassetid://71853933061897",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 990,
+        ["Tag"] = "Santa Point Track",
+    },
+    ["Divine One"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 5500,
+            ["Gems"] = 120,
+            ["Coins"] = 3000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://76691010362653",
+            ["Shiny"] = "rbxassetid://94129699349229",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1184,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["MVP Rumblecon Doggy"] = {
         ["Egg"] = "Rumblecon Egg",
         ["Stats"] = {
@@ -11517,6 +11797,27 @@
         ["LayoutOrder"] = 909,
         ["Tag"] = "RUMBLECON",
     },
+    ["Equipoise"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 14500,
+            ["Gems"] = 225,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://115020504801569",
+            ["Mythic"] = "rbxassetid://121186871629989",
+            ["MythicShiny"] = "rbxassetid://126842953509431",
+            ["Shiny"] = "rbxassetid://80440263225185",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-09,
+        ["LayoutOrder"] = 1182,
+        ["Tag"] = "Duality Event",
+    },
     ["Nightmare Guardian"] = {
         ["Stats"] = {
             ["Bubbles"] = 3350,
@@ -11532,6 +11833,66 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 629,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["Inferno Gem"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 11500,
+            ["Gems"] = 200,
+            ["Coins"] = 8500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://99153381832357",
+            ["Mythic"] = "rbxassetid://93605797944050",
+            ["MythicShiny"] = "rbxassetid://76674105283012",
+            ["Shiny"] = "rbxassetid://82894679237959",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 4e-09,
+        ["LayoutOrder"] = 1181,
+        ["Tag"] = "Duality Event",
+    },
+    ["Devil's Skull"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10500,
+            ["Gems"] = 175,
+            ["Coins"] = 7250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://112302906021196",
+            ["Mythic"] = "rbxassetid://120961524794389",
+            ["MythicShiny"] = "rbxassetid://76931009878972",
+            ["Shiny"] = "rbxassetid://106521277817495",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1.5e-08,
+        ["LayoutOrder"] = 1180,
+        ["Tag"] = "Duality Event",
+    },
+    ["Hellxarium"] = {
+        ["Egg"] = "Hellish Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 5200,
+            ["Gems"] = 95,
+            ["Coins"] = 2750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://114590308088111",
+            ["Mythic"] = "rbxassetid://116991362002147",
+            ["MythicShiny"] = "rbxassetid://127556746283136",
+            ["Shiny"] = "rbxassetid://110172227011800",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.001,
+        ["LayoutOrder"] = 1178,
+        ["Tag"] = "Duality Event",
     },
     ["Voodoo Dowodle"] = {
         ["Stats"] = {
@@ -11571,6 +11932,38 @@
         ["LayoutOrder"] = 714,
         ["Tag"] = "Halloween 2025",
     },
+    ["Rudolph Shock"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 7500,
+            ["Gems"] = 135,
+            ["Coins"] = 4250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://126746012890906",
+            ["Shiny"] = "rbxassetid://104552240932799",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 855,
+        ["Tag"] = "Winter Mini Event 2025",
+    },
+    ["Frost Shard"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9500,
+            ["Gems"] = 135,
+            ["Coins"] = 7200,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://70884303230308",
+            ["Shiny"] = "rbxassetid://124422543905877",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 874,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Crimson Bloodmoon"] = {
         ["Egg"] = "Underworld Egg",
         ["Stats"] = {
@@ -11589,6 +11982,62 @@
         ["Tier"] = 2,
         ["Chance"] = 0.00012,
         ["LayoutOrder"] = 180,
+    },
+    ["Azure Gaze"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 7500,
+            ["Gems"] = 120,
+            ["Coins"] = 4000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://92560945027932",
+            ["Mythic"] = "rbxassetid://98303803873897",
+            ["MythicShiny"] = "rbxassetid://88203263972731",
+            ["Shiny"] = "rbxassetid://92259098835993",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.00001,
+        ["LayoutOrder"] = 1172,
+        ["Tag"] = "Duality Event",
+    },
+    ["Azure Hexarium"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 5200,
+            ["Gems"] = 95,
+            ["Coins"] = 2750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://116076857726242",
+            ["Mythic"] = "rbxassetid://83274905781079",
+            ["MythicShiny"] = "rbxassetid://138401309050575",
+            ["Shiny"] = "rbxassetid://123743442424877",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.001,
+        ["LayoutOrder"] = 1171,
+        ["Tag"] = "Duality Event",
+    },
+    ["Neon Angel"] = {
+        ["Egg"] = "Azure Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10,
+            ["Coins"] = 5,
+        },
+        ["Rarity"] = "Common",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://105451497230864",
+            ["Shiny"] = "rbxassetid://106251176626352",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1168,
+        ["Tag"] = "Duality Event",
     },
     ["OG Abyss"] = {
         ["Egg"] = "Season OG Egg",
@@ -11609,6 +12058,21 @@
         ["Chance"] = 0.25,
         ["LayoutOrder"] = 797,
         ["Tag"] = "Season OG",
+    },
+    ["Dark Koi"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 14500,
+            ["Gems"] = 250,
+            ["Coins"] = 10000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108712135538290",
+            ["Shiny"] = "rbxassetid://118867184576136",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1166,
     },
     ["Poltergeist"] = {
         ["Egg"] = "Season 9 Egg",
@@ -11634,8 +12098,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 14200,
-            ["CircusTickets"] = 300,
-            ["GameTickets"] = 70,
+            ["Gems"] = 225,
+            ["Coins"] = 10000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -11647,7 +12111,7 @@
         ["Limited"] = true,
         ["Infinity"] = true,
         ["Tier"] = 3,
-        ["Chance"] = 5e-09,
+        ["Chance"] = 2e-09,
         ["LayoutOrder"] = 1165,
         ["Tag"] = "Circus Event",
     },
@@ -11655,8 +12119,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 8700,
-            ["CircusTickets"] = 180,
-            ["GameTickets"] = 15,
+            ["Gems"] = 180,
+            ["Coins"] = 7200,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -11693,7 +12157,7 @@
         ["Egg"] = "Clown Egg",
         ["Stats"] = {
             ["Bubbles"] = 50,
-            ["CircusTickets"] = 1.7,
+            ["Coins"] = 1.7,
         },
         ["Rarity"] = "Unique",
         ["Images"] = {
@@ -11728,8 +12192,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 2250,
-            ["Gems"] = 35,
-            ["CircusTickets"] = 15,
+            ["Gems"] = 140,
+            ["Coins"] = 1000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -11770,7 +12234,7 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 16,
-            ["CircusTickets"] = 6,
+            ["Coins"] = 6,
         },
         ["Rarity"] = "Rare",
         ["Images"] = {
@@ -12062,8 +12526,8 @@
     ["Giant Dreamscape"] = {
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 140,
-            ["GameTickets"] = 8,
+            ["Gems"] = 175,
+            ["Coins"] = 6250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12081,7 +12545,7 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 16,
-            ["CircusTickets"] = 6,
+            ["Coins"] = 6,
         },
         ["Rarity"] = "Rare",
         ["Images"] = {
@@ -12131,8 +12595,8 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 14000,
-            ["CircusTickets"] = 275,
-            ["GameTickets"] = 67,
+            ["Gems"] = 165,
+            ["Coins"] = 10000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12207,8 +12671,8 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 200,
-            ["GameTickets"] = 17.5,
+            ["Gems"] = 140,
+            ["Coins"] = 8000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12262,7 +12726,7 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 20,
-            ["CircusTickets"] = 7,
+            ["Coins"] = 7,
         },
         ["Rarity"] = "Epic",
         ["Images"] = {
@@ -12277,8 +12741,8 @@
     ["Retro Sylently's Pet"] = {
         ["Stats"] = {
             ["Bubbles"] = 7400,
-            ["CircusTickets"] = 80,
-            ["GameTickets"] = 2,
+            ["Gems"] = 150,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12329,7 +12793,7 @@
         ["Egg"] = "Circus Jester Egg",
         ["Stats"] = {
             ["Bubbles"] = 10,
-            ["CircusTickets"] = 5,
+            ["Coins"] = 5,
         },
         ["Rarity"] = "Common",
         ["Images"] = {
@@ -12345,8 +12809,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 13500,
-            ["CircusTickets"] = 250,
-            ["GameTickets"] = 50,
+            ["Gems"] = 195,
+            ["Coins"] = 10000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12468,8 +12932,8 @@
     ["Nexus"] = {
         ["Stats"] = {
             ["Bubbles"] = 8000,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 8,
+            ["Gems"] = 145,
+            ["Coins"] = 6000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12486,8 +12950,8 @@
     ["Dark Gryphon"] = {
         ["Stats"] = {
             ["Bubbles"] = 9000,
-            ["CircusTickets"] = 140,
-            ["GameTickets"] = 8,
+            ["Gems"] = 145,
+            ["Coins"] = 6000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12504,8 +12968,8 @@
     ["Star Titan"] = {
         ["Stats"] = {
             ["Bubbles"] = 7400,
-            ["CircusTickets"] = 80,
-            ["GameTickets"] = 2,
+            ["Gems"] = 130,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12545,8 +13009,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 190,
-            ["GameTickets"] = 20,
+            ["Gems"] = 180,
+            ["Coins"] = 8200,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12775,8 +13239,8 @@
     ["Festival One"] = {
         ["Stats"] = {
             ["Bubbles"] = 9200,
-            ["CircusTickets"] = 250,
-            ["GameTickets"] = 10,
+            ["Gems"] = 145,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12810,8 +13274,8 @@
         ["ChannelIgnore"] = true,
         ["Stats"] = {
             ["Bubbles"] = 7200,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 6,
+            ["Gems"] = 145,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12829,8 +13293,8 @@
         ["ChannelIgnore"] = true,
         ["Stats"] = {
             ["Bubbles"] = 6900,
-            ["CircusTickets"] = 150,
-            ["GameTickets"] = 4,
+            ["Gems"] = 130,
+            ["Coins"] = 3250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12848,7 +13312,7 @@
         ["Egg"] = "Cannon Egg",
         ["Stats"] = {
             ["Bubbles"] = 8,
-            ["CircusTickets"] = 2.5,
+            ["Coins"] = 2.5,
         },
         ["Rarity"] = "Common",
         ["Images"] = {
@@ -12885,8 +13349,8 @@
     ["Fancy Dragon Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 5500,
-            ["CircusTickets"] = 65,
-            ["GameTickets"] = 1.5,
+            ["Gems"] = 90,
+            ["Coins"] = 3000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12944,8 +13408,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 10000,
-            ["CircusTickets"] = 190,
-            ["GameTickets"] = 20,
+            ["Gems"] = 180,
+            ["Coins"] = 8200,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12964,8 +13428,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9800,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 15,
+            ["Gems"] = 175,
+            ["Coins"] = 7700,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -12984,8 +13448,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9800,
-            ["CircusTickets"] = 175,
-            ["GameTickets"] = 15,
+            ["Gems"] = 175,
+            ["Coins"] = 7700,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -13040,8 +13504,8 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 9450,
-            ["CircusTickets"] = 160,
-            ["GameTickets"] = 12,
+            ["Gems"] = 160,
+            ["Coins"] = 7250,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -13144,7 +13608,7 @@
         ["Egg"] = "Magic Egg",
         ["Stats"] = {
             ["Bubbles"] = 14,
-            ["CircusTickets"] = 6,
+            ["Coins"] = 6,
         },
         ["Rarity"] = "Rare",
         ["Images"] = {
@@ -13161,7 +13625,7 @@
         ["Stats"] = {
             ["Bubbles"] = 5000,
             ["Gems"] = 95,
-            ["CircusTickets"] = 20,
+            ["Coins"] = 3200,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -13180,7 +13644,7 @@
         ["Egg"] = "Cannon Egg",
         ["Stats"] = {
             ["Bubbles"] = 14,
-            ["CircusTickets"] = 3,
+            ["Coins"] = 3,
         },
         ["Rarity"] = "Rare",
         ["Images"] = {
@@ -13196,8 +13660,8 @@
         ["ChannelIgnore"] = true,
         ["Stats"] = {
             ["Bubbles"] = 8000,
-            ["CircusTickets"] = 90,
-            ["GameTickets"] = 2,
+            ["Gems"] = 120,
+            ["Coins"] = 4500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -13217,7 +13681,7 @@
         ["Egg"] = "Clown Egg",
         ["Stats"] = {
             ["Bubbles"] = 100,
-            ["CircusTickets"] = 2.2,
+            ["Coins"] = 2.2,
         },
         ["Rarity"] = "Rare",
         ["Images"] = {
@@ -13272,8 +13736,8 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 7250,
-            ["Gems"] = 120,
-            ["CircusTickets"] = 55,
+            ["Gems"] = 160,
+            ["Coins"] = 5500,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -13314,7 +13778,7 @@
         ["Egg"] = "Clown Egg",
         ["Stats"] = {
             ["Bubbles"] = 25,
-            ["CircusTickets"] = 1.2,
+            ["Coins"] = 1.2,
         },
         ["Rarity"] = "Common",
         ["Images"] = {
@@ -13554,8 +14018,8 @@
     ["Clown Rigby"] = {
         ["Stats"] = {
             ["Bubbles"] = 7750,
-            ["CircusTickets"] = 200,
-            ["GameTickets"] = 8,
+            ["Gems"] = 145,
+            ["Coins"] = 5000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -14454,23 +14918,21 @@
         ["LayoutOrder"] = 991,
         ["Tag"] = "Secret Santa Egg",
     },
-    ["Santa Capybara Plushie"] = {
+    ["Karma"] = {
         ["Stats"] = {
-            ["Bubbles"] = 4500,
-            ["Gems"] = 100,
-            ["Coins"] = 200,
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
         },
-        ["Rarity"] = "Legendary",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://137762767032085",
-            ["Mythic"] = "rbxassetid://102332049509516",
-            ["MythicShiny"] = "rbxassetid://104141194152857",
-            ["Shiny"] = "rbxassetid://71853933061897",
+            ["Normal"] = "rbxassetid://110064776689829",
+            ["Shiny"] = "rbxassetid://123751035723802",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 990,
-        ["Tag"] = "Santa Point Track",
+        ["LayoutOrder"] = 1185,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Sea Chime"] = {
         ["Stats"] = {
@@ -14788,8 +15250,8 @@
     ["Teddy Bear Plushie"] = {
         ["Stats"] = {
             ["Bubbles"] = 7250,
-            ["CircusTickets"] = 55,
-            ["GameTickets"] = 4,
+            ["Gems"] = 145,
+            ["Coins"] = 4500,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -14901,7 +15363,7 @@
         ["Egg"] = "Jamboree Egg",
         ["Stats"] = {
             ["Bubbles"] = 10,
-            ["CircusTickets"] = 5,
+            ["Coins"] = 5,
         },
         ["Rarity"] = "Common",
         ["Images"] = {
@@ -14917,7 +15379,7 @@
         ["Stats"] = {
             ["Bubbles"] = 4250,
             ["Gems"] = 100,
-            ["CircusTickets"] = 60,
+            ["Coins"] = 2750,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -15859,26 +16321,23 @@
         ["LayoutOrder"] = 693,
         ["Tag"] = "Rebirth Machine",
     },
-    ["Santa's Hat"] = {
-        ["ChannelIgnore"] = true,
+    ["Demon Dowodle"] = {
         ["Stats"] = {
-            ["Bubbles"] = 7750,
+            ["Bubbles"] = 7000,
             ["Gems"] = 130,
-            ["Coins"] = 4400,
+            ["Coins"] = 4500,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://108721114414317",
-            ["Mythic"] = "rbxassetid://133556432671932",
-            ["MythicShiny"] = "rbxassetid://138538571125943",
-            ["Shiny"] = "rbxassetid://108439524520565",
+            ["Normal"] = "rbxassetid://84813193561477",
+            ["Mythic"] = "rbxassetid://124301472589830",
+            ["MythicShiny"] = "rbxassetid://127023829863989",
+            ["Shiny"] = "rbxassetid://116221933443692",
         },
         ["Limited"] = true,
-        ["Tier"] = 3,
-        ["Chance"] = 2.5e-07,
-        ["Egg"] = "Yuletide Egg",
-        ["LayoutOrder"] = 892,
-        ["Tag"] = "Christmas 2025",
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1186,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Jingle Orb"] = {
         ["Egg"] = "Yuletide Egg",
@@ -16119,21 +16578,21 @@
         ["Chance"] = 30,
         ["LayoutOrder"] = 233,
     },
-    ["Frost Shard"] = {
+    ["Hellish Demon"] = {
+        ["Egg"] = "Hellish Egg",
         ["Stats"] = {
-            ["Bubbles"] = 9500,
-            ["Gems"] = 135,
-            ["Coins"] = 7200,
+            ["Bubbles"] = 10,
+            ["Coins"] = 5,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Common",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://70884303230308",
-            ["Shiny"] = "rbxassetid://124422543905877",
+            ["Normal"] = "rbxassetid://107263239935272",
+            ["Shiny"] = "rbxassetid://123277886165615",
         },
         ["Limited"] = true,
-        ["Chance"] = 100,
-        ["LayoutOrder"] = 874,
-        ["Tag"] = "Exclusive Pet",
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1175,
+        ["Tag"] = "Duality Event",
     },
     ["Classic Beta TV"] = {
         ["Stats"] = {
@@ -16247,21 +16706,25 @@
         ["LayoutOrder"] = 537,
         ["Tag"] = "Milestone Egg",
     },
-    ["Rudolph Shock"] = {
+    ["Demon Dragon"] = {
+        ["Egg"] = "Hellish Egg",
         ["Stats"] = {
-            ["Bubbles"] = 7500,
-            ["Gems"] = 135,
-            ["Coins"] = 4250,
+            ["Bubbles"] = 2250,
+            ["Gems"] = 35,
+            ["Coins"] = 1000,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://126746012890906",
-            ["Shiny"] = "rbxassetid://104552240932799",
+            ["Normal"] = "rbxassetid://114403567604995",
+            ["Mythic"] = "rbxassetid://139589388291877",
+            ["MythicShiny"] = "rbxassetid://133915980015393",
+            ["Shiny"] = "rbxassetid://111746688009839",
         },
         ["Limited"] = true,
-        ["Chance"] = 100,
-        ["LayoutOrder"] = 855,
-        ["Tag"] = "Winter Mini Event 2025",
+        ["Tier"] = 2,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1177,
+        ["Tag"] = "Duality Event",
     },
     ["OG Vine Doggy"] = {
         ["Egg"] = "Super OG Egg",
@@ -16293,7 +16756,7 @@
             ["Shiny"] = "rbxassetid://135702382190957",
         },
         ["Limited"] = true,
-        ["Chance"] = 0.005,
+        ["Chance"] = 100,
         ["LayoutOrder"] = 854,
         ["Tag"] = "Admin Mystery Box",
     },
@@ -16983,7 +17446,7 @@
         ["Stats"] = {
             ["Bubbles"] = 2200,
             ["Gems"] = 35,
-            ["CircusTickets"] = 15,
+            ["Coins"] = 1000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
@@ -20482,7 +20945,7 @@
         ["Stats"] = {
             ["Bubbles"] = 5000,
             ["Gems"] = 95,
-            ["CircusTickets"] = 32,
+            ["Coins"] = 2000,
         },
         ["Rarity"] = "Legendary",
         ["Images"] = {
