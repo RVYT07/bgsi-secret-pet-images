@@ -1038,6 +1038,22 @@
         ["Chance"] = 0.04,
         ["LayoutOrder"] = 157,
     },
+    ["Twitch Defender"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 2000,
+            ["Gems"] = 50,
+            ["Coins"] = 2000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://95025063986562",
+            ["Shiny"] = "rbxassetid://88182072877413",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1192,
+        ["Tag"] = "Twitch Bloxfest Reward",
+    },
     ["D0GGY1337"] = {
         ["Stats"] = {
             ["Bubbles"] = 3350,
@@ -1789,6 +1805,24 @@
         ["LayoutOrder"] = 771,
         ["Tag"] = "OG Event 2025",
     },
+    ["Dark Seer"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9750,
+            ["Gems"] = 145,
+            ["Coins"] = 7500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://137703371013661",
+            ["Mythic"] = "rbxassetid://95396923437287",
+            ["MythicShiny"] = "rbxassetid://116134234169189",
+            ["Shiny"] = "rbxassetid://114867626283972",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 4e-07,
+        ["LayoutOrder"] = 1202,
+        ["Tag"] = "Secret Bounty",
+    },
     ["Radiant Crystal Dragon"] = {
         ["Egg"] = "Voidcrystal Egg",
         ["Stats"] = {
@@ -1977,8 +2011,8 @@
             ["MythicShiny"] = "rbxassetid://134637349382900",
             ["Shiny"] = "rbxassetid://126959957436889",
         },
-        ["Tier"] = 2,
-        ["Chance"] = 0.0001,
+        ["Tier"] = 3,
+        ["Chance"] = 0.00005,
         ["LayoutOrder"] = 422,
     },
     ["Rumblecon Kitty"] = {
@@ -2212,6 +2246,28 @@
         ["Tier"] = 2,
         ["Chance"] = 0.0001,
         ["LayoutOrder"] = 391,
+    },
+    ["SUPER BIG ROUND"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 140,
+            ["Coins"] = 4500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://71728452918814",
+            ["Mythic"] = "rbxassetid://137495821379041",
+            ["MythicShiny"] = "rbxassetid://135438484463085",
+            ["Shiny"] = "rbxassetid://134355531412992",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-07,
+        ["Egg"] = "Super Egg",
+        ["LayoutOrder"] = 1252,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["S'more"] = {
         ["Egg"] = "Season XMAS Egg",
@@ -2455,6 +2511,24 @@
         ["Chance"] = 12.5,
         ["LayoutOrder"] = 354,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["QUE FOFO FACE GOD"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 20000,
+            ["Gems"] = 300,
+            ["Coins"] = 15000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://136015510657791",
+            ["Shiny"] = "rbxassetid://132703268331007",
+        },
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-10,
+        ["LayoutOrder"] = 1205,
+        ["Tag"] = "The Chosen Que Fofo",
     },
     ["Disco Ball"] = {
         ["Egg"] = "Neon Egg",
@@ -3718,6 +3792,22 @@
         ["LayoutOrder"] = 353,
         ["Tag"] = "Exclusive Pet",
     },
+    ["Sakura Vectorlord"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 2900,
+            ["Gems"] = 35,
+            ["Coins"] = 1200,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://104721590353103",
+            ["Shiny"] = "rbxassetid://105086909899063",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1219,
+        ["Tag"] = "Season Sakura",
+    },
     ["Nert Plushie"] = {
         ["Egg"] = "Developer Egg",
         ["Stats"] = {
@@ -3870,6 +3960,28 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 346,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["Super Radiant One"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 155,
+            ["Coins"] = 5750,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://105622169779261",
+            ["Mythic"] = "rbxassetid://77381152214535",
+            ["MythicShiny"] = "rbxassetid://136704507401145",
+            ["Shiny"] = "rbxassetid://92642826809615",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-08,
+        ["Egg"] = "Super Egg",
+        ["LayoutOrder"] = 1253,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Candycane Dragon"] = {
         ["Egg"] = "Candycane Egg",
@@ -4154,6 +4266,23 @@
         ["Limited"] = true,
         ["Chance"] = 65,
         ["LayoutOrder"] = 182,
+    },
+    ["Super Doggy"] = {
+        ["Egg"] = "Super Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 8,
+            ["Coins"] = 6,
+        },
+        ["Rarity"] = "Common",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://117290191345868",
+            ["Shiny"] = "rbxassetid://100165778885731",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1247,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Retro Kraken"] = {
         ["ChannelIgnore"] = true,
@@ -5026,6 +5155,22 @@
         ["LayoutOrder"] = 1041,
         ["Tag"] = "Season 12",
     },
+    ["Retro Soul Heart"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 5500,
+            ["Gems"] = 120,
+            ["Coins"] = 3000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://100371578597658",
+            ["Shiny"] = "rbxassetid://104938276121174",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1196,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Frost Golem"] = {
         ["Egg"] = "Frost Egg",
         ["Stats"] = {
@@ -5096,6 +5241,23 @@
         ["Chance"] = 5e-07,
         ["LayoutOrder"] = 524,
         ["Tag"] = "Secret Bounty",
+    },
+    ["Super Kitty"] = {
+        ["Egg"] = "Super Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 14,
+            ["Coins"] = 8,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://136820791661584",
+            ["Shiny"] = "rbxassetid://77317365865434",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Chance"] = 30,
+        ["LayoutOrder"] = 1248,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Santa Nert Plushie"] = {
         ["ChannelIgnore"] = true,
@@ -5951,6 +6113,26 @@
         ["LayoutOrder"] = 1095,
         ["Tag"] = "Secret Bounty",
     },
+    ["Amour Archer"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 11750,
+            ["Gems"] = 200,
+            ["Coins"] = 8500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://136566086528191",
+            ["Mythic"] = "rbxassetid://71695854386048",
+            ["MythicShiny"] = "rbxassetid://72967574639294",
+            ["Shiny"] = "rbxassetid://106259883149720",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-08,
+        ["LayoutOrder"] = 1213,
+        ["Tag"] = "Valentine's Event",
+    },
     ["Patriotic Penguin"] = {
         ["Egg"] = "July4th Egg",
         ["Stats"] = {
@@ -6207,6 +6389,22 @@
         ["Limited"] = true,
         ["Chance"] = 65,
         ["LayoutOrder"] = 176,
+    },
+    ["Broken Heart"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://92538155975717",
+            ["Shiny"] = "rbxassetid://113036392212553",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 34,
+        ["LayoutOrder"] = 1235,
+        ["Tag"] = "Valentine's Event",
     },
     ["Seraphic Bruh"] = {
         ["Egg"] = "Bruh Egg",
@@ -6978,6 +7176,26 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 248,
     },
+    ["Elegant Sakura"] = {
+        ["Egg"] = "Season Sakura Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6700,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://71326642404479",
+            ["Mythic"] = "rbxassetid://125302144343389",
+            ["MythicShiny"] = "rbxassetid://122715461493559",
+            ["Shiny"] = "rbxassetid://81073823991704",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.0002,
+        ["LayoutOrder"] = 1224,
+        ["Tag"] = "Season Sakura",
+    },
     ["Classic Doggy"] = {
         ["Egg"] = "Classic Egg",
         ["Stats"] = {
@@ -7027,6 +7245,25 @@
         ["Chance"] = 0.5,
         ["LayoutOrder"] = 457,
         ["Tag"] = "Season 6",
+    },
+    ["Giant Neon Elemental"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://87822815620618",
+            ["Mythic"] = "rbxassetid://119632464230627",
+            ["MythicShiny"] = "rbxassetid://130407331165463",
+            ["Shiny"] = "rbxassetid://73510878342207",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1243,
+        ["Tag"] = "Rebirth Machine: Admin",
     },
     ["Carrot Pufferfish"] = {
         ["Stats"] = {
@@ -7239,6 +7476,22 @@
         ["Chance"] = 64,
         ["LayoutOrder"] = 387,
     },
+    ["Sakura Deer"] = {
+        ["Egg"] = "Season Sakura Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 220,
+            ["Coins"] = 6,
+        },
+        ["Rarity"] = "Epic",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://76115094407365",
+            ["Shiny"] = "rbxassetid://121838758291856",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 10,
+        ["LayoutOrder"] = 1222,
+        ["Tag"] = "Season Sakura",
+    },
     ["Nebula"] = {
         ["Egg"] = "Season 2 Egg",
         ["Stats"] = {
@@ -7403,6 +7656,22 @@
         ["Tier"] = 3,
         ["Chance"] = 7.5e-07,
         ["LayoutOrder"] = 368,
+    },
+    ["Super Soul Heart"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://122470859850977",
+            ["Shiny"] = "rbxassetid://139661399403513",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1197,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Azure Fate"] = {
         ["Egg"] = "Magic Egg",
@@ -8401,6 +8670,22 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 702,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["Soulflower"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 3350,
+            ["Gems"] = 45,
+            ["Coins"] = 1750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://114527210281169",
+            ["Shiny"] = "rbxassetid://108054007082242",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1220,
+        ["Tag"] = "Season Sakura",
     },
     ["Harmonic Lily"] = {
         ["Stats"] = {
@@ -10371,6 +10656,26 @@
         ["Chance"] = 3,
         ["LayoutOrder"] = 151,
     },
+    ["Darkness Rose"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 7750,
+            ["Gems"] = 120,
+            ["Coins"] = 4000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://129428706543392",
+            ["Mythic"] = "rbxassetid://117415791547840",
+            ["MythicShiny"] = "rbxassetid://126984119785839",
+            ["Shiny"] = "rbxassetid://94928132400661",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.000025,
+        ["LayoutOrder"] = 1238,
+        ["Tag"] = "Valentine's Event",
+    },
     ["Bumble Bee"] = {
         ["Egg"] = "Bee Egg",
         ["Stats"] = {
@@ -10667,6 +10972,25 @@
         ["Chance"] = 0.001,
         ["LayoutOrder"] = 204,
     },
+    ["The Dark Tyrant"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 14000,
+            ["Gems"] = 225,
+            ["Coins"] = 11000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://129755268830045",
+            ["Mythic"] = "rbxassetid://137289766540842",
+            ["MythicShiny"] = "rbxassetid://97178720254558",
+            ["Shiny"] = "rbxassetid://134705441011094",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1230,
+        ["Tag"] = "Rebirth Machine: Dark",
+    },
     ["Leaf Kitty"] = {
         ["Egg"] = "Season 8 Egg",
         ["Stats"] = {
@@ -10823,6 +11147,28 @@
         ["LayoutOrder"] = 932,
         ["Tag"] = "Christmas 2025",
     },
+    ["Super Leviathan"] = {
+        ["Egg"] = "Super Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 14500,
+            ["Gems"] = 200,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://121002451763819",
+            ["Mythic"] = "rbxassetid://74787808319544",
+            ["MythicShiny"] = "rbxassetid://127824313054470",
+            ["Shiny"] = "rbxassetid://125967702441665",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 5e-10,
+        ["LayoutOrder"] = 1254,
+        ["Tag"] = "Admin Abuse Egg",
+    },
     ["Lamp Ghost"] = {
         ["Stats"] = {
             ["Bubbles"] = 1350,
@@ -10840,6 +11186,28 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 475,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["The Superlord"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 7000,
+            ["Gems"] = 125,
+            ["Coins"] = 3750,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://76124386286339",
+            ["Mythic"] = "rbxassetid://84809037713510",
+            ["MythicShiny"] = "rbxassetid://76013770978120",
+            ["Shiny"] = "rbxassetid://113612725121647",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.000001,
+        ["Egg"] = "Super Egg",
+        ["LayoutOrder"] = 1251,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Mecha Kraken"] = {
         ["Stats"] = {
@@ -10869,6 +11237,23 @@
         ["Chance"] = 7,
         ["LayoutOrder"] = 31,
     },
+    ["Snake Eyes"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 7000,
+            ["Pearls"] = 1100,
+            ["Gems"] = 130,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://75836718793343",
+            ["Mythic"] = "rbxassetid://84343546099955",
+            ["MythicShiny"] = "rbxassetid://140206848244695",
+            ["Shiny"] = "rbxassetid://92019132814759",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 514,
+    },
     ["Unicorn"] = {
         ["Egg"] = "Crystal Egg",
         ["Stats"] = {
@@ -10886,6 +11271,27 @@
         ["Tier"] = 1,
         ["Chance"] = 0.25,
         ["LayoutOrder"] = 33,
+    },
+    ["Super Unicorn"] = {
+        ["Egg"] = "Super Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 1800,
+            ["Gems"] = 35,
+            ["Coins"] = 400,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://106775469361189",
+            ["Mythic"] = "rbxassetid://88848620182507",
+            ["MythicShiny"] = "rbxassetid://93369732019805",
+            ["Shiny"] = "rbxassetid://113753858623238",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.001,
+        ["LayoutOrder"] = 1249,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Angelus"] = {
         ["Stats"] = {
@@ -10939,6 +11345,42 @@
         ["LayoutOrder"] = 668,
         ["Tag"] = "Halloween 2025",
     },
+    ["Floral Dogcat"] = {
+        ["Egg"] = "Season 13 Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 7750,
+            ["Gems"] = 135,
+            ["Coins"] = 5000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://139845910586546",
+            ["Mythic"] = "rbxassetid://121174660137567",
+            ["MythicShiny"] = "rbxassetid://86536521392595",
+            ["Shiny"] = "rbxassetid://84443383426440",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.002,
+        ["LayoutOrder"] = 1147,
+        ["Tag"] = "Season 13",
+    },
+    ["Frost Shard"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9500,
+            ["Gems"] = 135,
+            ["Coins"] = 7200,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://70884303230308",
+            ["Shiny"] = "rbxassetid://124422543905877",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 874,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Whimsical Fairy"] = {
         ["Stats"] = {
             ["Bubbles"] = 5750,
@@ -10954,6 +11396,25 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 707,
         ["Tag"] = "Dark Wheel Spin",
+    },
+    ["Seraphim"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8500,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://99567857680931",
+            ["Mythic"] = "rbxassetid://72465955463928",
+            ["MythicShiny"] = "rbxassetid://132881030591384",
+            ["Shiny"] = "rbxassetid://86490931502458",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1244,
+        ["Tag"] = "Rebirth Machine: Admin",
     },
     ["Luminosity"] = {
         ["Stats"] = {
@@ -10972,6 +11433,46 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 168,
         ["Tag"] = "Season 2",
+    },
+    ["Memory of Remembrance"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 15000,
+            ["Gems"] = 225,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://135920980374476",
+            ["Mythic"] = "rbxassetid://136066265256315",
+            ["MythicShiny"] = "rbxassetid://121500862215199",
+            ["Shiny"] = "rbxassetid://98595062944038",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Chance"] = 0.00075,
+        ["LayoutOrder"] = 1242,
+        ["Tag"] = "Heartbreak Letter",
+    },
+    ["The Love Thief"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 15000,
+            ["Gems"] = 225,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://134899143117872",
+            ["Mythic"] = "rbxassetid://92268959124279",
+            ["MythicShiny"] = "rbxassetid://71684984285998",
+            ["Shiny"] = "rbxassetid://134325917326792",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1e-09,
+        ["LayoutOrder"] = 1241,
+        ["Tag"] = "Valentine's Event",
     },
     ["Wolf"] = {
         ["Egg"] = "Spotted Egg",
@@ -11005,6 +11506,26 @@
         ["Tier"] = 3,
         ["Chance"] = 2e-07,
         ["LayoutOrder"] = 625,
+    },
+    ["Lovely Marshmallow"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 5250,
+            ["Gems"] = 95,
+            ["Coins"] = 2750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://125283084190676",
+            ["Mythic"] = "rbxassetid://140723524545471",
+            ["MythicShiny"] = "rbxassetid://80790626667173",
+            ["Shiny"] = "rbxassetid://138938644826906",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.0015,
+        ["LayoutOrder"] = 1237,
+        ["Tag"] = "Valentine's Event",
     },
     ["OG Mint Sundae Champion"] = {
         ["Egg"] = "OG Egg",
@@ -11042,6 +11563,43 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 904,
         ["Tag"] = "Advent Calendar",
+    },
+    ["Mine Sweeper"] = {
+        ["Egg"] = "Nostalgia Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 22,
+            ["Coins"] = 12,
+        },
+        ["Rarity"] = "Epic",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://97804732170749",
+            ["Shiny"] = "rbxassetid://136115065910848",
+        },
+        ["Limited"] = true,
+        ["AdminAbuse"] = true,
+        ["Chance"] = 5,
+        ["LayoutOrder"] = 1015,
+        ["Tag"] = "Admin Abuse Egg",
+    },
+    ["Queen of Thorns"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 12000,
+            ["Gems"] = 200,
+            ["Coins"] = 8500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://78176295585791",
+            ["Mythic"] = "rbxassetid://121515177138507",
+            ["MythicShiny"] = "rbxassetid://81544627471039",
+            ["Shiny"] = "rbxassetid://100094885777465",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 2e-08,
+        ["LayoutOrder"] = 1240,
+        ["Tag"] = "Valentine's Event",
     },
     ["Neon Elemental"] = {
         ["Egg"] = "Void Egg",
@@ -11117,6 +11675,26 @@
         ["LayoutOrder"] = 758,
         ["Tag"] = "Admin Abuse Egg",
     },
+    ["Love Soul"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 2300,
+            ["Gems"] = 35,
+            ["Coins"] = 1000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://135319381538889",
+            ["Mythic"] = "rbxassetid://110913084609928",
+            ["MythicShiny"] = "rbxassetid://89366050789245",
+            ["Shiny"] = "rbxassetid://90937856202027",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1236,
+        ["Tag"] = "Valentine's Event",
+    },
     ["Wolf Skull"] = {
         ["Egg"] = "Sinister Egg",
         ["Stats"] = {
@@ -11152,6 +11730,22 @@
         ["Chance"] = 65,
         ["LayoutOrder"] = 283,
     },
+    ["Broken Unicorn"] = {
+        ["Egg"] = "Heartbreak Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10,
+            ["Coins"] = 5,
+        },
+        ["Rarity"] = "Common",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://95199514162963",
+            ["Shiny"] = "rbxassetid://114739491905431",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1234,
+        ["Tag"] = "Valentine's Event",
+    },
     ["Snowglobe Hexarium"] = {
         ["Egg"] = "Festive Egg",
         ["Stats"] = {
@@ -11172,6 +11766,60 @@
         ["LayoutOrder"] = 979,
         ["Tag"] = "Christmas 2025",
     },
+    ["Dark Avernus"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://134356882417437",
+            ["Mythic"] = "rbxassetid://97066430574960",
+            ["MythicShiny"] = "rbxassetid://71404717369449",
+            ["Shiny"] = "rbxassetid://129304858107580",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1233,
+        ["Tag"] = "Exclusive Pet",
+    },
+    ["Frost Winged Hydra"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 5000,
+            ["Gems"] = 135,
+            ["Coins"] = 2650,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://137938491358864",
+            ["Mythic"] = "rbxassetid://112804076539493",
+            ["MythicShiny"] = "rbxassetid://95686249320224",
+            ["Shiny"] = "rbxassetid://77547605201291",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 940,
+        ["Tag"] = "Season XMAS",
+    },
+    ["Stuffed Tabby"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 8500,
+            ["Gems"] = 160,
+            ["Coins"] = 5500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://72135615070735",
+            ["Mythic"] = "rbxassetid://117872619165125",
+            ["MythicShiny"] = "rbxassetid://129462487086728",
+            ["Shiny"] = "rbxassetid://88430044746737",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1231,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Vine Deer"] = {
         ["Egg"] = "Vine Egg",
         ["Stats"] = {
@@ -11185,6 +11833,24 @@
         },
         ["Chance"] = 3,
         ["LayoutOrder"] = 419,
+    },
+    ["Dark Basilisk"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 11500,
+            ["Gems"] = 185,
+            ["Coins"] = 9250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://100458965113190",
+            ["Mythic"] = "rbxassetid://130975801903717",
+            ["MythicShiny"] = "rbxassetid://87010029798197",
+            ["Shiny"] = "rbxassetid://139343733968463",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1229,
+        ["Tag"] = "Rebirth Machine: Dark",
     },
     ["Angel Bee"] = {
         ["Egg"] = "Bee Egg",
@@ -11238,6 +11904,24 @@
         ["Limited"] = true,
         ["Chance"] = 100,
         ["LayoutOrder"] = 566,
+    },
+    ["Dark Destiny"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9000,
+            ["Gems"] = 160,
+            ["Coins"] = 8000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://76239492436970",
+            ["Mythic"] = "rbxassetid://106033496606019",
+            ["MythicShiny"] = "rbxassetid://120180495879401",
+            ["Shiny"] = "rbxassetid://121616679529545",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1228,
+        ["Tag"] = "Rebirth Machine: Dark",
     },
     ["Evil Marshmallow"] = {
         ["Egg"] = "Mutant Egg",
@@ -11294,6 +11978,25 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 794,
         ["Tag"] = "Season OG",
+    },
+    ["Cobalt Sea Dragon"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://101997508969649",
+            ["Mythic"] = "rbxassetid://75713364151353",
+            ["MythicShiny"] = "rbxassetid://119536009315773",
+            ["Shiny"] = "rbxassetid://93934006079044",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1227,
+        ["Tag"] = "Rebirth Machine: Dark",
     },
     ["Snowverlord"] = {
         ["Egg"] = "Festive Egg",
@@ -11400,11 +12103,47 @@
         ["LayoutOrder"] = 1065,
         ["Tag"] = "Circus Event",
     },
+    ["Fairy Log"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 3350,
+            ["Gems"] = 45,
+            ["Coins"] = 1750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://111158141465071",
+            ["Shiny"] = "rbxassetid://135870255507157",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1040,
+        ["Tag"] = "Season XMAS",
+    },
+    ["Sakura Specter"] = {
+        ["Egg"] = "Season Sakura Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 8300,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://77236446220624",
+            ["Mythic"] = "rbxassetid://104373588614351",
+            ["MythicShiny"] = "rbxassetid://131145764935019",
+            ["Shiny"] = "rbxassetid://117103562213255",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.00005,
+        ["LayoutOrder"] = 1225,
+        ["Tag"] = "Season Sakura",
+    },
     ["The Infinity Gem"] = {
         ["Stats"] = {
-            ["Bubbles"] = 19000,
-            ["Gems"] = 260,
-            ["Coins"] = 11000,
+            ["Bubbles"] = 21000,
+            ["Gems"] = 275,
+            ["Coins"] = 12000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
@@ -11474,6 +12213,42 @@
         ["Chance"] = 2e-07,
         ["LayoutOrder"] = 592,
     },
+    ["Blossom Protector"] = {
+        ["Egg"] = "Season Sakura Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 4300,
+            ["Gems"] = 75,
+            ["Coins"] = 3400,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://121187971755706",
+            ["Mythic"] = "rbxassetid://100545657597992",
+            ["MythicShiny"] = "rbxassetid://70910682276441",
+            ["Shiny"] = "rbxassetid://71528025745688",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 1,
+        ["Chance"] = 0.05,
+        ["LayoutOrder"] = 1223,
+        ["Tag"] = "Season Sakura",
+    },
+    ["Sakura Doggy"] = {
+        ["Egg"] = "Season Sakura Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 44,
+            ["Coins"] = 2,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://73606916356788",
+            ["Shiny"] = "rbxassetid://97837872763689",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 90,
+        ["LayoutOrder"] = 1221,
+        ["Tag"] = "Season Sakura",
+    },
     ["Velvet Wolflord"] = {
         ["Egg"] = "Candycane Egg",
         ["Stats"] = {
@@ -11493,6 +12268,24 @@
         ["Chance"] = 1e-07,
         ["LayoutOrder"] = 885,
         ["Tag"] = "Christmas 2025",
+    },
+    ["Blossom Chime"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12000,
+            ["Gems"] = 175,
+            ["Coins"] = 6250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://116948004892294",
+            ["Mythic"] = "rbxassetid://88926039263827",
+            ["MythicShiny"] = "rbxassetid://128236974209914",
+            ["Shiny"] = "rbxassetid://81809993977484",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1218,
+        ["Tag"] = "Season Sakura",
     },
     ["Cave Bat"] = {
         ["Egg"] = "Crystal Egg",
@@ -11525,6 +12318,56 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 823,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["Dark Radiance"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 5500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://73681042623989",
+            ["Shiny"] = "rbxassetid://109716837258591",
+        },
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 754,
+        ["Tag"] = "Prize Reward",
+    },
+    ["Sakura Sprout"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 7000,
+            ["Gems"] = 135,
+            ["Coins"] = 2000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://104214256737404",
+            ["Mythic"] = "rbxassetid://105025286827823",
+            ["MythicShiny"] = "rbxassetid://83811526798835",
+            ["Shiny"] = "rbxassetid://135689722286271",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1216,
+        ["Tag"] = "Season Sakura",
+    },
+    ["Giant Kitsune"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 14000,
+            ["Gems"] = 225,
+            ["Coins"] = 9000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://140507402645904",
+            ["Shiny"] = "rbxassetid://140485121098979",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1215,
+        ["Tag"] = "Infinity Mystery Box",
     },
     ["King Doggy"] = {
         ["Egg"] = "Common Egg",
@@ -11563,6 +12406,85 @@
         ["Chance"] = 0.035,
         ["LayoutOrder"] = 362,
     },
+    ["Rose Koi"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 14750,
+            ["Gems"] = 225,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://115341783663736",
+            ["Mythic"] = "rbxassetid://106385144727365",
+            ["MythicShiny"] = "rbxassetid://85926245898004",
+            ["Shiny"] = "rbxassetid://109811455125776",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 1.8e-09,
+        ["LayoutOrder"] = 1214,
+        ["Tag"] = "Valentine's Event",
+    },
+    ["Pure of Heart"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10700,
+            ["Gems"] = 175,
+            ["Coins"] = 7250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://132867035115101",
+            ["Mythic"] = "rbxassetid://72855367350293",
+            ["MythicShiny"] = "rbxassetid://134279003539516",
+            ["Shiny"] = "rbxassetid://70587146173129",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 5e-08,
+        ["LayoutOrder"] = 1212,
+        ["Tag"] = "Valentine's Event",
+    },
+    ["Festival One"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9200,
+            ["Gems"] = 145,
+            ["Coins"] = 5000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://112063080915776",
+            ["Mythic"] = "rbxassetid://98159370828371",
+            ["MythicShiny"] = "rbxassetid://101984529577730",
+            ["Shiny"] = "rbxassetid://134911694862993",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1099,
+        ["Tag"] = "Rebirth Machine 4",
+    },
+    ["Chocolate Bond"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 5250,
+            ["Gems"] = 95,
+            ["Coins"] = 2750,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://102496984131530",
+            ["Mythic"] = "rbxassetid://133096421242778",
+            ["MythicShiny"] = "rbxassetid://101409033949853",
+            ["Shiny"] = "rbxassetid://72222068266843",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.0015,
+        ["LayoutOrder"] = 1210,
+        ["Tag"] = "Valentine's Event",
+    },
     ["Firecracker"] = {
         ["Egg"] = "New Years Egg",
         ["Stats"] = {
@@ -11582,6 +12504,42 @@
         ["Chance"] = 5e-08,
         ["LayoutOrder"] = 1028,
         ["Tag"] = "New Years 2026",
+    },
+    ["Lovebirds"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 2300,
+            ["Gems"] = 35,
+            ["Coins"] = 1000,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://135301083671769",
+            ["Mythic"] = "rbxassetid://131912961114872",
+            ["MythicShiny"] = "rbxassetid://71963138877404",
+            ["Shiny"] = "rbxassetid://103589341429241",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1209,
+        ["Tag"] = "Valentine's Event",
+    },
+    ["Lovely Ribbon"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Epic",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://100461297538009",
+            ["Shiny"] = "rbxassetid://140038557856004",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 4,
+        ["LayoutOrder"] = 1208,
+        ["Tag"] = "Valentine's Event",
     },
     ["OG Pufferfish"] = {
         ["Stats"] = {
@@ -11616,6 +12574,56 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 971,
         ["Tag"] = "Exclusive Pet",
+    },
+    ["Lovely Doggy"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://112703410180624",
+            ["Shiny"] = "rbxassetid://121720319584988",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 30,
+        ["LayoutOrder"] = 1207,
+        ["Tag"] = "Valentine's Event",
+    },
+    ["Letter Kitty"] = {
+        ["Egg"] = "Valentine's Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10,
+            ["Coins"] = 5,
+        },
+        ["Rarity"] = "Common",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108896731614677",
+            ["Shiny"] = "rbxassetid://139829836041040",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1206,
+        ["Tag"] = "Valentine's Event",
+    },
+    ["Mirror Gem"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12250,
+            ["Gems"] = 185,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://110612945513259",
+            ["Mythic"] = "rbxassetid://82093281778752",
+            ["MythicShiny"] = "rbxassetid://93446491393304",
+            ["Shiny"] = "rbxassetid://124180874418790",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 5e-08,
+        ["LayoutOrder"] = 1204,
+        ["Tag"] = "Secret Bounty",
     },
     ["Gummy Overlord"] = {
         ["Stats"] = {
@@ -11653,6 +12661,39 @@
         ["LayoutOrder"] = 718,
         ["Tag"] = "Halloween 2025",
     },
+    ["Bruh Cat"] = {
+        ["Egg"] = "Bruh Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 100,
+            ["Coins"] = 15,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://105388455369960",
+            ["Shiny"] = "rbxassetid://111653954473794",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 30,
+        ["LayoutOrder"] = 308,
+    },
+    ["Elegant Emerald"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 165,
+            ["Coins"] = 6800,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://82689172411667",
+            ["Mythic"] = "rbxassetid://100982947202925",
+            ["MythicShiny"] = "rbxassetid://85759460442260",
+            ["Shiny"] = "rbxassetid://79081800582349",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1120,
+        ["Tag"] = "Gem Genie Leaderboard 2",
+    },
     ["Dualcorn"] = {
         ["Egg"] = "Throwback Egg",
         ["Stats"] = {
@@ -11672,6 +12713,42 @@
         ["Chance"] = 0.002,
         ["LayoutOrder"] = 123,
     },
+    ["Kraken Couplet"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 11500,
+            ["Gems"] = 200,
+            ["Coins"] = 8000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://140127517908244",
+            ["Mythic"] = "rbxassetid://109954674638480",
+            ["MythicShiny"] = "rbxassetid://137872182077639",
+            ["Shiny"] = "rbxassetid://86209201725579",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 0.002,
+        ["LayoutOrder"] = 1200,
+        ["Tag"] = "Gold Valentine's Letter",
+    },
+    ["Lovely Omen"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9500,
+            ["Gems"] = 180,
+            ["Coins"] = 7250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://106383230883902",
+            ["Mythic"] = "rbxassetid://108111338126933",
+            ["MythicShiny"] = "rbxassetid://120617519555552",
+            ["Shiny"] = "rbxassetid://83132350031262",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 0.005,
+        ["LayoutOrder"] = 1199,
+        ["Tag"] = "Silver Valentine's Letter",
+    },
     ["Isaac Rainbow Shock"] = {
         ["Egg"] = "Developer Egg",
         ["Stats"] = {
@@ -11688,6 +12765,74 @@
         ["Tier"] = 2,
         ["Chance"] = 0.0001,
         ["LayoutOrder"] = 573,
+    },
+    ["Inferno Gryphon"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://75574200686683",
+            ["Shiny"] = "rbxassetid://140443684200028",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1198,
+        ["Tag"] = "Exclusive Pet",
+    },
+    ["Love Basilisk"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 7000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://76470220487930",
+            ["Mythic"] = "rbxassetid://117920512096865",
+            ["MythicShiny"] = "rbxassetid://96179912261748",
+            ["Shiny"] = "rbxassetid://72965233726912",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1195,
+        ["Tag"] = "Exclusive Pet",
+    },
+    ["que bonita"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 7000,
+            ["Gems"] = 130,
+            ["Coins"] = 4500,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://122370004046008",
+            ["Mythic"] = "rbxassetid://72387822900505",
+            ["MythicShiny"] = "rbxassetid://93530950272297",
+            ["Shiny"] = "rbxassetid://114973527601343",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1194,
+        ["Tag"] = "Exclusive Pet",
+    },
+    ["Heartbroken One"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9000,
+            ["Gems"] = 175,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108984175662093",
+            ["Mythic"] = "rbxassetid://91722456007198",
+            ["MythicShiny"] = "rbxassetid://111691233846266",
+            ["Shiny"] = "rbxassetid://97993043894342",
+        },
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1193,
     },
     ["Giant que fofo"] = {
         ["Stats"] = {
@@ -11707,7 +12852,7 @@
     },
     ["Bubblegum Pegasus"] = {
         ["Stats"] = {
-            ["Bubbles"] = 12000,
+            ["Bubbles"] = 15000,
             ["Gems"] = 175,
             ["Coins"] = 9000,
         },
@@ -11806,7 +12951,7 @@
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://115020504801569",
+            ["Normal"] = "rbxassetid://135323625971571",
             ["Mythic"] = "rbxassetid://121186871629989",
             ["MythicShiny"] = "rbxassetid://126842953509431",
             ["Shiny"] = "rbxassetid://80440263225185",
@@ -11948,21 +13093,23 @@
         ["LayoutOrder"] = 855,
         ["Tag"] = "Winter Mini Event 2025",
     },
-    ["Frost Shard"] = {
+    ["The Eternity"] = {
         ["Stats"] = {
-            ["Bubbles"] = 9500,
-            ["Gems"] = 135,
-            ["Coins"] = 7200,
+            ["Bubbles"] = 9000,
+            ["Gems"] = 160,
+            ["Coins"] = 8000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://70884303230308",
-            ["Shiny"] = "rbxassetid://124422543905877",
+            ["Normal"] = "rbxassetid://77204842040739",
+            ["Mythic"] = "rbxassetid://95518437358743",
+            ["MythicShiny"] = "rbxassetid://99994274574727",
+            ["Shiny"] = "rbxassetid://129292333251261",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 874,
-        ["Tag"] = "Exclusive Pet",
+        ["LayoutOrder"] = 1245,
+        ["Tag"] = "Rebirth Machine: Admin",
     },
     ["Crimson Bloodmoon"] = {
         ["Egg"] = "Underworld Egg",
@@ -12420,25 +13567,23 @@
         ["Chance"] = 0.075,
         ["LayoutOrder"] = 481,
     },
-    ["Floral Dogcat"] = {
-        ["Egg"] = "Season 13 Egg",
+    ["UwUlord"] = {
         ["Stats"] = {
-            ["Bubbles"] = 7750,
-            ["Gems"] = 135,
-            ["Coins"] = 5000,
+            ["Bubbles"] = 10000,
+            ["Gems"] = 185,
+            ["Coins"] = 8500,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://139845910586546",
-            ["Mythic"] = "rbxassetid://121174660137567",
-            ["MythicShiny"] = "rbxassetid://86536521392595",
-            ["Shiny"] = "rbxassetid://84443383426440",
+            ["Normal"] = "rbxassetid://73258733997016",
+            ["Mythic"] = "rbxassetid://116611163152761",
+            ["MythicShiny"] = "rbxassetid://110791394177118",
+            ["Shiny"] = "rbxassetid://119039599874183",
         },
         ["Limited"] = true,
-        ["Tier"] = 2,
-        ["Chance"] = 0.002,
-        ["LayoutOrder"] = 1147,
-        ["Tag"] = "Season 13",
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1246,
+        ["Tag"] = "Rebirth Machine: Admin",
     },
     ["Violet Kitty"] = {
         ["Egg"] = "Season 13 Egg",
@@ -12911,23 +14056,21 @@
         ["LayoutOrder"] = 867,
         ["Tag"] = "Winter 2025",
     },
-    ["Elegant Emerald"] = {
+    ["Lovely Shock"] = {
         ["Stats"] = {
-            ["Bubbles"] = 10000,
-            ["Gems"] = 165,
-            ["Coins"] = 6800,
+            ["Bubbles"] = 4250,
+            ["Gems"] = 75,
+            ["Coins"] = 2000,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://82689172411667",
-            ["Mythic"] = "rbxassetid://100982947202925",
-            ["MythicShiny"] = "rbxassetid://85759460442260",
-            ["Shiny"] = "rbxassetid://79081800582349",
+            ["Normal"] = "rbxassetid://127606697941903",
+            ["Shiny"] = "rbxassetid://134114672595740",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 1120,
-        ["Tag"] = "Gem Genie Leaderboard 2",
+        ["LayoutOrder"] = 1201,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Nexus"] = {
         ["Stats"] = {
@@ -13236,23 +14379,25 @@
         ["LayoutOrder"] = 807,
         ["Tag"] = "Admin Abuse Egg",
     },
-    ["Festival One"] = {
+    ["Chocolate Gift"] = {
+        ["Egg"] = "Valentine's Egg",
         ["Stats"] = {
-            ["Bubbles"] = 9200,
-            ["Gems"] = 145,
-            ["Coins"] = 5000,
+            ["Bubbles"] = 7500,
+            ["Gems"] = 120,
+            ["Coins"] = 4000,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://112063080915776",
-            ["Mythic"] = "rbxassetid://98159370828371",
-            ["MythicShiny"] = "rbxassetid://101984529577730",
-            ["Shiny"] = "rbxassetid://134911694862993",
+            ["Normal"] = "rbxassetid://118366116908948",
+            ["Mythic"] = "rbxassetid://75501989831144",
+            ["MythicShiny"] = "rbxassetid://124263897767722",
+            ["Shiny"] = "rbxassetid://74803190846681",
         },
         ["Limited"] = true,
-        ["Chance"] = 100,
-        ["LayoutOrder"] = 1099,
-        ["Tag"] = "Rebirth Machine 4",
+        ["Tier"] = 3,
+        ["Chance"] = 0.000025,
+        ["LayoutOrder"] = 1211,
+        ["Tag"] = "Valentine's Event",
     },
     ["Fairy Piggy"] = {
         ["Egg"] = "Season 12 Egg",
@@ -14033,21 +15178,24 @@
         ["LayoutOrder"] = 1098,
         ["Tag"] = "Rebirth Machine 4",
     },
-    ["Fairy Log"] = {
+    ["Crimson Sea Dragon"] = {
+        ["ChannelIgnore"] = true,
         ["Stats"] = {
-            ["Bubbles"] = 3350,
-            ["Gems"] = 45,
-            ["Coins"] = 1750,
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
         },
-        ["Rarity"] = "Legendary",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://111158141465071",
-            ["Shiny"] = "rbxassetid://135870255507157",
+            ["Normal"] = "rbxassetid://131750714447757",
+            ["Mythic"] = "rbxassetid://109044821904312",
+            ["MythicShiny"] = "rbxassetid://119821877596392",
+            ["Shiny"] = "rbxassetid://140410302579284",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 1040,
-        ["Tag"] = "Season XMAS",
+        ["LayoutOrder"] = 1226,
+        ["Tag"] = "Rebirth Machine: Dark",
     },
     ["OG Light Demon"] = {
         ["Stats"] = {
@@ -14423,22 +15571,25 @@
         ["LayoutOrder"] = 1016,
         ["Tag"] = "Admin Abuse Egg",
     },
-    ["Mine Sweeper"] = {
-        ["Egg"] = "Nostalgia Egg",
+    ["Lonely Rose"] = {
+        ["Egg"] = "Heartbreak Egg",
         ["Stats"] = {
-            ["Bubbles"] = 22,
-            ["Coins"] = 12,
+            ["Bubbles"] = 10900,
+            ["Gems"] = 175,
+            ["Coins"] = 7250,
         },
-        ["Rarity"] = "Epic",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://97804732170749",
-            ["Shiny"] = "rbxassetid://136115065910848",
+            ["Normal"] = "rbxassetid://81652074337020",
+            ["Mythic"] = "rbxassetid://122574352301420",
+            ["MythicShiny"] = "rbxassetid://118183395162705",
+            ["Shiny"] = "rbxassetid://105731168140351",
         },
         ["Limited"] = true,
-        ["AdminAbuse"] = true,
-        ["Chance"] = 5,
-        ["LayoutOrder"] = 1015,
-        ["Tag"] = "Admin Abuse Egg",
+        ["Tier"] = 3,
+        ["Chance"] = 1e-07,
+        ["LayoutOrder"] = 1239,
+        ["Tag"] = "Valentine's Event",
     },
     ["Giant D.I.Y Robot"] = {
         ["Stats"] = {
@@ -14885,22 +16036,26 @@
         ["LayoutOrder"] = 993,
         ["Tag"] = "Secret Santa Egg",
     },
-    ["Snake Eyes"] = {
+    ["Super Crescent Empress"] = {
+        ["Egg"] = "Super Egg",
         ["Stats"] = {
-            ["Bubbles"] = 7000,
-            ["Pearls"] = 1100,
-            ["Gems"] = 130,
+            ["Bubbles"] = 4450,
+            ["Gems"] = 95,
+            ["Coins"] = 1250,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://75836718793343",
-            ["Mythic"] = "rbxassetid://84343546099955",
-            ["MythicShiny"] = "rbxassetid://140206848244695",
-            ["Shiny"] = "rbxassetid://92019132814759",
+            ["Normal"] = "rbxassetid://85250315215364",
+            ["Mythic"] = "rbxassetid://132453393658682",
+            ["MythicShiny"] = "rbxassetid://118393766956663",
+            ["Shiny"] = "rbxassetid://116639136589898",
         },
         ["Limited"] = true,
-        ["Chance"] = 100,
-        ["LayoutOrder"] = 514,
+        ["AdminAbuse"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.0001,
+        ["LayoutOrder"] = 1250,
+        ["Tag"] = "Admin Abuse Egg",
     },
     ["Santa Doggy"] = {
         ["Egg"] = "Christmas Egg",
@@ -15593,23 +16748,23 @@
         ["LayoutOrder"] = 306,
         ["Tag"] = "Exclusive Pet",
     },
-    ["Frost Winged Hydra"] = {
+    ["Dark Star"] = {
         ["Stats"] = {
-            ["Bubbles"] = 5000,
-            ["Gems"] = 135,
-            ["Coins"] = 2650,
+            ["Bubbles"] = 8000,
+            ["Gems"] = 140,
+            ["Coins"] = 6500,
         },
-        ["Rarity"] = "Legendary",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://137938491358864",
-            ["Mythic"] = "rbxassetid://112804076539493",
-            ["MythicShiny"] = "rbxassetid://95686249320224",
-            ["Shiny"] = "rbxassetid://77547605201291",
+            ["Normal"] = "rbxassetid://78786086675904",
+            ["Mythic"] = "rbxassetid://83852504074284",
+            ["MythicShiny"] = "rbxassetid://135588815250710",
+            ["Shiny"] = "rbxassetid://114615631974721",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 940,
-        ["Tag"] = "Season XMAS",
+        ["LayoutOrder"] = 1232,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Christmas Elemental"] = {
         ["Stats"] = {
@@ -16015,21 +17170,23 @@
         ["LayoutOrder"] = 871,
         ["Tag"] = "Exclusive Pet",
     },
-    ["Dark Radiance"] = {
-        ["ChannelIgnore"] = true,
+    ["Sakuralord"] = {
         ["Stats"] = {
-            ["Bubbles"] = 10000,
-            ["Gems"] = 160,
-            ["Coins"] = 5500,
+            ["Bubbles"] = 9250,
+            ["Gems"] = 135,
+            ["Coins"] = 4750,
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://73681042623989",
-            ["Shiny"] = "rbxassetid://109716837258591",
+            ["Normal"] = "rbxassetid://88764294824980",
+            ["Mythic"] = "rbxassetid://102562704960104",
+            ["MythicShiny"] = "rbxassetid://112511915076758",
+            ["Shiny"] = "rbxassetid://105296835200469",
         },
+        ["Limited"] = true,
         ["Chance"] = 100,
-        ["LayoutOrder"] = 754,
-        ["Tag"] = "Prize Reward",
+        ["LayoutOrder"] = 1217,
+        ["Tag"] = "Season Sakura",
     },
     ["The Golden Ticket"] = {
         ["ChannelIgnore"] = true,
@@ -20307,6 +21464,7 @@
             ["MythicShiny"] = "rbxassetid://136295665976789",
             ["Shiny"] = "rbxassetid://105909687508851",
         },
+        ["Limited"] = true,
         ["Infinity"] = true,
         ["Chance"] = 100,
         ["LayoutOrder"] = 768,
@@ -20575,20 +21733,23 @@
         ["Chance"] = 0.01,
         ["LayoutOrder"] = 310,
     },
-    ["Bruh Cat"] = {
-        ["Egg"] = "Bruh Egg",
+    ["Valentium"] = {
         ["Stats"] = {
-            ["Bubbles"] = 100,
-            ["Coins"] = 15,
+            ["Bubbles"] = 10750,
+            ["Gems"] = 155,
+            ["Coins"] = 8750,
         },
-        ["Rarity"] = "Rare",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://105388455369960",
-            ["Shiny"] = "rbxassetid://111653954473794",
+            ["Normal"] = "rbxassetid://121956093032915",
+            ["Mythic"] = "rbxassetid://103062459346046",
+            ["MythicShiny"] = "rbxassetid://74933585057762",
+            ["Shiny"] = "rbxassetid://131797878835829",
         },
         ["Limited"] = true,
-        ["Chance"] = 30,
-        ["LayoutOrder"] = 308,
+        ["Chance"] = 1e-07,
+        ["LayoutOrder"] = 1203,
+        ["Tag"] = "Secret Bounty",
     },
     ["Festivus"] = {
         ["Stats"] = {
