@@ -3326,6 +3326,22 @@
         ["LayoutOrder"] = 658,
         ["Tag"] = "Halloween 2025",
     },
+    ["Bubble Dragon"] = {
+        ["Egg"] = "Bubble Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 220,
+            ["Coins"] = 6,
+        },
+        ["Rarity"] = "Epic",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://135098454721669",
+            ["Shiny"] = "rbxassetid://106994341934589",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 10,
+        ["LayoutOrder"] = 1329,
+        ["Tag"] = "Series: Bubble",
+    },
     ["Jawbreaker Elemental"] = {
         ["Stats"] = {
             ["Bubbles"] = 1300,
@@ -3484,6 +3500,22 @@
         ["Chance"] = 0.001,
         ["LayoutOrder"] = 919,
         ["Tag"] = "Christmas 2025",
+    },
+    ["Cryptid Nightcrawler"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Petals"] = 4,
+        },
+        ["Rarity"] = "Rare",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://106995742940710",
+            ["Shiny"] = "rbxassetid://89611309621217",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 30,
+        ["LayoutOrder"] = 1342,
+        ["Tag"] = "Spring Garden Event",
     },
     ["Clown Nert Plushie"] = {
         ["Stats"] = {
@@ -4534,6 +4566,25 @@
         ["LayoutOrder"] = 996,
         ["Tag"] = "Secret Santa Egg",
     },
+    ["Overworld Army"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://97239038197837",
+            ["Mythic"] = "rbxassetid://136755526463044",
+            ["MythicShiny"] = "rbxassetid://82170044154395",
+            ["Shiny"] = "rbxassetid://107425808832444",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1334,
+        ["Tag"] = "Rebirth Machine: Worlds",
+    },
     ["Winged Doggy"] = {
         ["Egg"] = "500M Egg",
         ["Stats"] = {
@@ -5257,6 +5308,26 @@
         },
         ["Chance"] = 2.25,
         ["LayoutOrder"] = 38,
+    },
+    ["Queen Wasp"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 12200,
+            ["Gems"] = 190,
+            ["Petals"] = 260,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://111385387081935",
+            ["Mythic"] = "rbxassetid://114594091172382",
+            ["MythicShiny"] = "rbxassetid://85496269057068",
+            ["Shiny"] = "rbxassetid://119586376772615",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 8e-09,
+        ["LayoutOrder"] = 1348,
+        ["Tag"] = "Spring Garden Event",
     },
     ["Fire King"] = {
         ["Egg"] = "Lava Egg",
@@ -7316,6 +7387,26 @@
         ["Limited"] = true,
         ["Chance"] = 30,
         ["LayoutOrder"] = 223,
+    },
+    ["Bubbleviathan"] = {
+        ["Egg"] = "Bubble Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 160,
+            ["Coins"] = 8300,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://137563140416421",
+            ["Mythic"] = "rbxassetid://126701871269010",
+            ["MythicShiny"] = "rbxassetid://75127946601767",
+            ["Shiny"] = "rbxassetid://98393917639756",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.0005,
+        ["LayoutOrder"] = 1332,
+        ["Tag"] = "Series: Bubble",
     },
     ["Radiant Challenger"] = {
         ["Stats"] = {
@@ -9840,6 +9931,24 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 954,
     },
+    ["Void Shard"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12500,
+            ["Gems"] = 160,
+            ["Petals"] = 85,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://94240662984400",
+            ["Mythic"] = "rbxassetid://86299246722358",
+            ["MythicShiny"] = "rbxassetid://140727964394285",
+            ["Shiny"] = "rbxassetid://93671498017283",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1339,
+        ["Tag"] = "Exclusive Pet",
+    },
     ["Wealthy Trio"] = {
         ["Stats"] = {
             ["Bubbles"] = 12000,
@@ -10371,6 +10480,26 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 528,
     },
+    ["Forest Fae"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 8350,
+            ["Gems"] = 120,
+            ["Petals"] = 95,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://113163827767269",
+            ["Mythic"] = "rbxassetid://110340655336659",
+            ["MythicShiny"] = "rbxassetid://125947838456760",
+            ["Shiny"] = "rbxassetid://113564803123042",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 0.000015,
+        ["LayoutOrder"] = 1346,
+        ["Tag"] = "Spring Garden Event",
+    },
     ["Vaporium"] = {
         ["Stats"] = {
             ["Bubbles"] = 2025,
@@ -10705,6 +10834,24 @@
         ["LayoutOrder"] = 726,
         ["Tag"] = "Exclusive Pet",
     },
+    ["Giant Tainter Spirit"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12000,
+            ["Gems"] = 185,
+            ["Coins"] = 7200,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://112621111512756",
+            ["Mythic"] = "rbxassetid://84860293319795",
+            ["MythicShiny"] = "rbxassetid://81932301215444",
+            ["Shiny"] = "rbxassetid://111479798260233",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1350,
+        ["Tag"] = "Bubbles Leaderboard 3",
+    },
     ["OG Angelic Ghost Spirit"] = {
         ["Stats"] = {
             ["Bubbles"] = 7750,
@@ -10760,6 +10907,47 @@
         ["Chance"] = 0.0001,
         ["LayoutOrder"] = 287,
     },
+    ["Eversource"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 15250,
+            ["Gems"] = 225,
+            ["Petals"] = 500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://122795888648710",
+            ["Mythic"] = "rbxassetid://110758674515392",
+            ["MythicShiny"] = "rbxassetid://134103089792861",
+            ["Shiny"] = "rbxassetid://137582295286602",
+        },
+        ["Limited"] = true,
+        ["Infinity"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 2.2e-09,
+        ["LayoutOrder"] = 1349,
+        ["Tag"] = "Spring Garden Event",
+    },
+    ["Forest Bloom"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 11400,
+            ["Gems"] = 175,
+            ["Petals"] = 200,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://108428828679942",
+            ["Mythic"] = "rbxassetid://109289811225456",
+            ["MythicShiny"] = "rbxassetid://139986473661850",
+            ["Shiny"] = "rbxassetid://137496608905910",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 5e-08,
+        ["LayoutOrder"] = 1347,
+        ["Tag"] = "Spring Garden Event",
+    },
     ["Ruby Golem"] = {
         ["Egg"] = "Spikey Egg",
         ["Stats"] = {
@@ -10789,6 +10977,23 @@
         ["Limited"] = true,
         ["Chance"] = 64,
         ["LayoutOrder"] = 127,
+    },
+    ["Da Cool Trio"] = {
+        ["Egg"] = "July4th Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 6500,
+            ["Gems"] = 125,
+            ["Coins"] = 5500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://118449459003357",
+            ["Shiny"] = "rbxassetid://84157122170916",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 3,
+        ["Chance"] = 2e-08,
+        ["LayoutOrder"] = 325,
     },
     ["Eternity"] = {
         ["Egg"] = "Dreamer Egg",
@@ -10829,6 +11034,26 @@
         ["LayoutOrder"] = 143,
         ["Tag"] = "Series 1",
     },
+    ["Shrubbery"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 2470,
+            ["Gems"] = 35,
+            ["Petals"] = 25,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://78860495778319",
+            ["Mythic"] = "rbxassetid://117249323632433",
+            ["MythicShiny"] = "rbxassetid://88876110058084",
+            ["Shiny"] = "rbxassetid://83540641759035",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.01,
+        ["LayoutOrder"] = 1344,
+        ["Tag"] = "Spring Garden Event",
+    },
     ["Royal Candy Cane"] = {
         ["Egg"] = "Candycane Egg",
         ["Stats"] = {
@@ -10849,6 +11074,22 @@
         ["LayoutOrder"] = 882,
         ["Tag"] = "Christmas 2025",
     },
+    ["Wooden Horse"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 16,
+            ["Petals"] = 8,
+        },
+        ["Rarity"] = "Epic",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://79743620138753",
+            ["Shiny"] = "rbxassetid://104329883007539",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 4,
+        ["LayoutOrder"] = 1343,
+        ["Tag"] = "Spring Garden Event",
+    },
     ["True Titan"] = {
         ["Stats"] = {
             ["Bubbles"] = 5000,
@@ -10865,6 +11106,58 @@
         ["Limited"] = true,
         ["Chance"] = 4e-07,
         ["LayoutOrder"] = 300,
+    },
+    ["Cryptid Deer"] = {
+        ["Egg"] = "Forest Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 10,
+            ["Petals"] = 2.5,
+        },
+        ["Rarity"] = "Common",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://84928131918975",
+            ["Shiny"] = "rbxassetid://75947428127636",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 65,
+        ["LayoutOrder"] = 1341,
+        ["Tag"] = "Spring Garden Event",
+    },
+    ["Spring Moth"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 10000,
+            ["Gems"] = 145,
+            ["Petals"] = 145,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://80899712703070",
+            ["Mythic"] = "rbxassetid://125318938792923",
+            ["MythicShiny"] = "rbxassetid://108895881293292",
+            ["Shiny"] = "rbxassetid://80732843779749",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1340,
+        ["Tag"] = "Exclusive Pet",
+    },
+    ["Void Dominus"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 140,
+            ["Petals"] = 30,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://123066987737458",
+            ["Mythic"] = "rbxassetid://91168158064870",
+            ["MythicShiny"] = "rbxassetid://82260066747564",
+            ["Shiny"] = "rbxassetid://92429276193658",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1338,
+        ["Tag"] = "Exclusive Pet",
     },
     ["Happy Dice"] = {
         ["Egg"] = "Game Egg",
@@ -10900,6 +11193,24 @@
         ["Chance"] = 0.0015,
         ["LayoutOrder"] = 286,
     },
+    ["Retro Shock"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 11500,
+            ["Gems"] = 185,
+            ["Coins"] = 9250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://77533509410918",
+            ["Mythic"] = "rbxassetid://111980147885503",
+            ["MythicShiny"] = "rbxassetid://112604619474497",
+            ["Shiny"] = "rbxassetid://121720966610107",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1337,
+        ["Tag"] = "Rebirth Machine: Worlds",
+    },
     ["Bee Bee Bee"] = {
         ["Egg"] = "Bee Egg",
         ["Stats"] = {
@@ -10918,6 +11229,81 @@
         ["Tier"] = 2,
         ["Chance"] = 0.0001,
         ["LayoutOrder"] = 383,
+    },
+    ["Bag O' Fish"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 9000,
+            ["Gems"] = 160,
+            ["Coins"] = 8000,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://75447264000628",
+            ["Mythic"] = "rbxassetid://137021315858192",
+            ["MythicShiny"] = "rbxassetid://114067513467753",
+            ["Shiny"] = "rbxassetid://131201763423415",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1336,
+        ["Tag"] = "Rebirth Machine: Worlds",
+    },
+    ["Cyber Kitty"] = {
+        ["ChannelIgnore"] = true,
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://101874227691061",
+            ["Mythic"] = "rbxassetid://81338415959570",
+            ["MythicShiny"] = "rbxassetid://79493433102554",
+            ["Shiny"] = "rbxassetid://137508331942835",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1335,
+        ["Tag"] = "Rebirth Machine: Worlds",
+    },
+    ["Bumble Beast"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 13750,
+            ["Gems"] = 190,
+            ["Petals"] = 260,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://75828086801052",
+            ["Mythic"] = "rbxassetid://128743131308608",
+            ["MythicShiny"] = "rbxassetid://82282611790171",
+            ["Shiny"] = "rbxassetid://72736627476849",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1333,
+        ["Tag"] = "Stinger King BUMBLE BEAST",
+    },
+    ["Bubble Overlord"] = {
+        ["Egg"] = "Bubble Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 8000,
+            ["Gems"] = 145,
+            ["Coins"] = 6700,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://112719359858180",
+            ["Mythic"] = "rbxassetid://127649890044565",
+            ["MythicShiny"] = "rbxassetid://106317750253587",
+            ["Shiny"] = "rbxassetid://127122133683325",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.001,
+        ["LayoutOrder"] = 1331,
+        ["Tag"] = "Series: Bubble",
     },
     ["Plasma Wolflord"] = {
         ["Egg"] = "Shadow Egg",
@@ -10953,6 +11339,41 @@
         ["Chance"] = 30,
         ["LayoutOrder"] = 196,
     },
+    ["Phantom"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 5500,
+            ["Gems"] = 100,
+            ["Coins"] = 450,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://140058727682445",
+            ["Shiny"] = "rbxassetid://88755497194893",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 568,
+    },
+    ["Wheat Angel"] = {
+        ["Egg"] = "Corn Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 1950,
+            ["Gems"] = 35,
+            ["Coins"] = 500,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://127690612046946",
+            ["Mythic"] = "rbxassetid://83073217238886",
+            ["MythicShiny"] = "rbxassetid://90483731828358",
+            ["Shiny"] = "rbxassetid://85268003330308",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 2,
+        ["Chance"] = 0.02,
+        ["LayoutOrder"] = 837,
+        ["Tag"] = "Thanksgiving 2025",
+    },
     ["OG Koi"] = {
         ["Egg"] = "Super OG Egg",
         ["Stats"] = {
@@ -10973,6 +11394,26 @@
         ["LayoutOrder"] = 779,
         ["Tag"] = "OG Event 2025",
     },
+    ["Ghost Phoenix"] = {
+        ["Egg"] = "Season 9 Egg",
+        ["Stats"] = {
+            ["Bubbles"] = 1800,
+            ["Gems"] = 40,
+            ["Coins"] = 1500,
+        },
+        ["Rarity"] = "Legendary",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://134115299836684",
+            ["Mythic"] = "rbxassetid://126434865066920",
+            ["MythicShiny"] = "rbxassetid://88188812661720",
+            ["Shiny"] = "rbxassetid://70561735963859",
+        },
+        ["Limited"] = true,
+        ["Tier"] = 1,
+        ["Chance"] = 0.25,
+        ["LayoutOrder"] = 679,
+        ["Tag"] = "Season 9",
+    },
     ["Soul Jam"] = {
         ["Stats"] = {
             ["Bubbles"] = 5000,
@@ -10989,6 +11430,40 @@
         ["Limited"] = true,
         ["Chance"] = 100,
         ["LayoutOrder"] = 476,
+    },
+    ["Framed Loading Screen"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 13500,
+            ["Gems"] = 225,
+            ["Coins"] = 10250,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://102750874423897",
+            ["Mythic"] = "rbxassetid://97449103690598",
+            ["MythicShiny"] = "rbxassetid://99755097575043",
+            ["Shiny"] = "rbxassetid://128946197699139",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1326,
+        ["Tag"] = "Bubble Series Top 75",
+    },
+    ["Bubblegum Machine"] = {
+        ["Stats"] = {
+            ["Bubbles"] = 12250,
+            ["Gems"] = 225,
+            ["Coins"] = 9500,
+        },
+        ["Rarity"] = "Secret",
+        ["Images"] = {
+            ["Normal"] = "rbxassetid://109381210108501",
+            ["Shiny"] = "rbxassetid://138265863490521",
+        },
+        ["Limited"] = true,
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1325,
+        ["Tag"] = "Bubble Series Top 250",
     },
     ["Sircfenner Giftbox"] = {
         ["ChannelIgnore"] = true,
@@ -11463,10 +11938,10 @@
         },
         ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://139022703563592",
-            ["Mythic"] = "rbxassetid://98702508233341",
-            ["MythicShiny"] = "rbxassetid://104816187672128",
-            ["Shiny"] = "rbxassetid://105014987702684",
+            ["Normal"] = "rbxassetid://133401753215552",
+            ["Mythic"] = "rbxassetid://133513375460681",
+            ["MythicShiny"] = "rbxassetid://113558770037433",
+            ["Shiny"] = "rbxassetid://98293932334558",
         },
         ["Limited"] = true,
         ["Chance"] = 100,
@@ -11544,7 +12019,7 @@
         },
         ["Limited"] = true,
         ["Tier"] = 3,
-        ["Chance"] = 1e-09,
+        ["Chance"] = 2.5e-09,
         ["LayoutOrder"] = 1296,
         ["Tag"] = "OG Rift",
     },
@@ -19553,25 +20028,21 @@
         ["Chance"] = 7,
         ["LayoutOrder"] = 63,
     },
-    ["Wheat Angel"] = {
-        ["Egg"] = "Corn Egg",
+    ["Bubble Dog"] = {
+        ["Egg"] = "Bubble Egg",
         ["Stats"] = {
-            ["Bubbles"] = 1950,
-            ["Gems"] = 35,
-            ["Coins"] = 500,
+            ["Bubbles"] = 44,
+            ["Coins"] = 2,
         },
-        ["Rarity"] = "Legendary",
+        ["Rarity"] = "Rare",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://127690612046946",
-            ["Mythic"] = "rbxassetid://83073217238886",
-            ["MythicShiny"] = "rbxassetid://90483731828358",
-            ["Shiny"] = "rbxassetid://85268003330308",
+            ["Normal"] = "rbxassetid://110408272021612",
+            ["Shiny"] = "rbxassetid://80927958772365",
         },
         ["Limited"] = true,
-        ["Tier"] = 2,
-        ["Chance"] = 0.02,
-        ["LayoutOrder"] = 837,
-        ["Tag"] = "Thanksgiving 2025",
+        ["Chance"] = 90,
+        ["LayoutOrder"] = 1328,
+        ["Tag"] = "Series: Bubble",
     },
     ["Infinity Wisp"] = {
         ["Egg"] = "Prismatic Egg",
@@ -20814,20 +21285,25 @@
         ["LayoutOrder"] = 77,
         ["Tag"] = "Season 1",
     },
-    ["Phantom"] = {
+    ["Buble"] = {
+        ["Egg"] = "Bubble Egg",
         ["Stats"] = {
-            ["Bubbles"] = 5500,
-            ["Gems"] = 100,
-            ["Coins"] = 450,
+            ["Bubbles"] = 4300,
+            ["Gems"] = 75,
+            ["Coins"] = 3400,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://140058727682445",
-            ["Shiny"] = "rbxassetid://88755497194893",
+            ["Normal"] = "rbxassetid://94648202833676",
+            ["Mythic"] = "rbxassetid://136779443677559",
+            ["MythicShiny"] = "rbxassetid://80643445015703",
+            ["Shiny"] = "rbxassetid://129278543958382",
         },
         ["Limited"] = true,
-        ["Chance"] = 100,
-        ["LayoutOrder"] = 568,
+        ["Tier"] = 1,
+        ["Chance"] = 0.05,
+        ["LayoutOrder"] = 1330,
+        ["Tag"] = "Series: Bubble",
     },
     ["Quamatic Plushie"] = {
         ["Egg"] = "Developer Egg",
@@ -21047,25 +21523,21 @@
         ["LayoutOrder"] = 682,
         ["Tag"] = "Exclusive Pet",
     },
-    ["Ghost Phoenix"] = {
-        ["Egg"] = "Season 9 Egg",
+    ["Giant Plush Robot"] = {
         ["Stats"] = {
-            ["Bubbles"] = 1800,
-            ["Gems"] = 40,
-            ["Coins"] = 1500,
+            ["Bubbles"] = 14000,
+            ["Gems"] = 190,
+            ["Petals"] = 300,
         },
-        ["Rarity"] = "Legendary",
+        ["Rarity"] = "Secret",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://134115299836684",
-            ["Mythic"] = "rbxassetid://126434865066920",
-            ["MythicShiny"] = "rbxassetid://88188812661720",
-            ["Shiny"] = "rbxassetid://70561735963859",
+            ["Normal"] = "rbxassetid://132097283667391",
+            ["Shiny"] = "rbxassetid://131266112705519",
         },
         ["Limited"] = true,
-        ["Tier"] = 1,
-        ["Chance"] = 0.25,
-        ["LayoutOrder"] = 679,
-        ["Tag"] = "Season 9",
+        ["Chance"] = 100,
+        ["LayoutOrder"] = 1327,
+        ["Tag"] = "Competitive Shop",
     },
     ["Broken TV"] = {
         ["Stats"] = {
@@ -22944,22 +23416,25 @@
         ["Chance"] = 100,
         ["LayoutOrder"] = 338,
     },
-    ["Da Cool Trio"] = {
-        ["Egg"] = "July4th Egg",
+    ["Forest Wyvern"] = {
+        ["Egg"] = "Forest Egg",
         ["Stats"] = {
-            ["Bubbles"] = 6500,
-            ["Gems"] = 125,
-            ["Coins"] = 5500,
+            ["Bubbles"] = 4425,
+            ["Gems"] = 95,
+            ["Petals"] = 55,
         },
-        ["Rarity"] = "Secret",
+        ["Rarity"] = "Legendary",
         ["Images"] = {
-            ["Normal"] = "rbxassetid://118449459003357",
-            ["Shiny"] = "rbxassetid://84157122170916",
+            ["Normal"] = "rbxassetid://100792684985765",
+            ["Mythic"] = "rbxassetid://89015846946527",
+            ["MythicShiny"] = "rbxassetid://102618681898601",
+            ["Shiny"] = "rbxassetid://134041781007131",
         },
         ["Limited"] = true,
-        ["Tier"] = 3,
-        ["Chance"] = 2e-08,
-        ["LayoutOrder"] = 325,
+        ["Tier"] = 2,
+        ["Chance"] = 0.00025,
+        ["LayoutOrder"] = 1345,
+        ["Tag"] = "Spring Garden Event",
     },
     ["Star Lord"] = {
         ["Egg"] = "July4th Egg",
